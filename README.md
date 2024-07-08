@@ -19,6 +19,12 @@ A legible monospace font... the very typeface you’ve been trained to recognize
 
 I have no font creation skills; I’m just a software developer. This font family is created by patching the original font, [Comic Shanns (v1)](https://github.com/shannpersand/comic-shanns), using a Python script, [`generate.py`](generate.py).
 
+### Update 2024/06/12
+
+- Adds Italic styles
+- Adds lambda 'λ' glyph
+- Fixes some glyph errors
+
 ## What does it look like?
 <p class="website-hidden">
   <a href="https://dtinth.github.io/comic-mono-font/#what-does-it-look-like">
