@@ -48,6 +48,7 @@ The contents of this package is also [published to npm](https://www.npmjs.com/pa
 - Fontsource: [@fontsource/comic-mono](https://www.npmjs.com/package/@fontsource/comic-mono) ([thanks @DecliningLotus](https://github.com/fontsource/fontsource/pull/117))
 - Arch Linux AUR: [ttf-comic-mono-git](https://aur.archlinux.org/packages/ttf-comic-mono-git/) (maintained by DBourgeoisat)
 - Gentoo LInux Overlay: [comic-mono-font](https://gpo.zugaina.org/Overlays/arrans-overlay/media-fonts/comic-mono-font)
+- Homebrew: [font-comic-mono](https://github.com/Homebrew/homebrew-cask/)
 
 ## License
 It is licensed under the [MIT License](LICENSE).
